@@ -3,7 +3,7 @@
 
 void print(vector_bool vb)
 {
-    for(int i = 0; i < vb.size; ++i)
+    for(unsigned int i = 0u; i < vb.size; ++i)
         printf("%u\n", get(vb, i));
 
     printf("\n");
