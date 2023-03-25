@@ -1,4 +1,4 @@
-# Expression Evalutor
+# Expression Evaluator
 
 This project is meant to work as a basic calculator supporting the following list of features: <br />
 
